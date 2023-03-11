@@ -1,0 +1,56 @@
+div.Appi {
+  text-align: center;
+  padding-top: 2em;
+  display: flex;
+  flex-direction: inherit;
+  height: auto;
+  width: 300%;
+  
+  background-image: linear-gradient(
+    to bottom,
+    rgba(122, 19, 225, 0.5),
+    rgba(17, 255, 49, 0.892)
+  );
+}
+h1.tittle{
+  align-items: center;
+  border: 2px 2px ;
+  height: -1rem;
+
+}
+.lokio{
+  text-align: center;
+  padding-top: 1em;
+  display: flex;
+  width: auto;
+  padding-top: 1em;
+
+}
+
+  body{
+    text-align: center;
+    display: -webkit-flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .input{
+    text-align: center;
+    padding-left: 1em;
+    padding-right: 1em;
+    flex-direction: row;
+    height: 2em;
+    width: auto;
+  }
+  .sentences{
+    display: flex;
+    flex-direction: column;
+    padding-top: 3em;
+    width: auto;
+
+  }
+.Button{
+  padding-top: 2rem;
+  border: 20px;
+
+}
